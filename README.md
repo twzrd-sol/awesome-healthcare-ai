@@ -132,6 +132,9 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
      - [deidentify](https://github.com/nedap/deidentify)
   * Cryptography
 
+### AI Agent Identity & Trust
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity before authorizing x402 micropayments in healthcare data pipelines.
 ### References 
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
   * [Awesome Machine Learning in Biomedical Healthcare Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
