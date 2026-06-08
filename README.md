@@ -131,6 +131,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
      - [Customize Deep Learning-based De-Identification Systems Using Local Clinical Notes - A Study of Sample Size](https://www.medrxiv.org/content/10.1101/2020.08.09.20171231v1)
      - [deidentify](https://github.com/nedap/deidentify)
   * Cryptography
+  * [TWZRD Agent Intel](https://intel.twzrd.xyz) - Agent identity trust scoring for AI systems on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### References 
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
